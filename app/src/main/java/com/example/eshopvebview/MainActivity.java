@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //todo replace to the url
-        web.loadUrl("http://192.168.254.165:8888/");
+        web.loadUrl("http://192.168.254.165:8090/");
     }
 
     private class Callback extends WebViewClient {
